@@ -5,4 +5,7 @@
 
  ### A side project for the course IT204 [ Signals and Systems ].
 
+### Model Achitecture
+<img width="402" alt="archi" src="https://github.com/user-attachments/assets/a7b7d261-3b5b-4caf-915e-1ea0a1131594" />
+
  
